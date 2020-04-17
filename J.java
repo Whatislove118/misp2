@@ -15,4 +15,8 @@ public class J {
     public Object gg() {
         return new java.util.Random();
     }
+
+    public int af() {
+        return -1;
+    }
 }
