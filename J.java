@@ -1,0 +1,14 @@
+public class J {
+
+    private int d = 42;
+
+    private String e = "init";
+
+    public int cc() {
+        return 42;
+    }
+
+    public void ab() {
+        return;
+    }
+}
