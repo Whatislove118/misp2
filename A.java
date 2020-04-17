@@ -19,4 +19,8 @@ public class A {
     public int hh() {
         return new java.util.Random().nextInt();
     }
+
+    public void aa() {
+        System.out.println("Hello world!");
+    }
 }
