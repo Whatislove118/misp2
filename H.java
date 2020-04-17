@@ -23,4 +23,8 @@ public class H extends K {
     public void ab() {
         System.out.println();
     }
+
+    public long dd() {
+        return 99999;
+    }
 }
