@@ -43,4 +43,8 @@ public class A extends null {
     public Object rr() {
         return null;
     }
+
+    public String kk() {
+        return "No";
+    }
 }

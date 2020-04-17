@@ -51,4 +51,8 @@ public class H extends K {
     public String kk() {
         return "Hello world";
     }
+
+    public int ae() {
+        return java.lang.Math.abs(-7);
+    }
 }
