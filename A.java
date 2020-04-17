@@ -27,4 +27,8 @@ public class A extends null {
     public double ad() {
         return 11;
     }
+
+    public Object pp() {
+        return this;
+    }
 }

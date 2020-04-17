@@ -27,4 +27,8 @@ public class J extends null {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public long dd() {
+        return 100500;
+    }
 }

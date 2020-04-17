@@ -27,4 +27,8 @@ public class K extends null {
     public long ac() {
         return 111;
     }
+
+    public Object rr() {
+        return null;
+    }
 }

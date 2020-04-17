@@ -27,4 +27,8 @@ public class H extends K {
     public int cc() {
         return 13;
     }
+
+    public double ee() {
+        return java.lang.Math.PI;
+    }
 }
