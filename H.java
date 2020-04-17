@@ -15,4 +15,16 @@ public class H extends K {
     public int af() {
         return -1;
     }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
+
+    public void ab() {
+        System.out.println();
+    }
+
+    public int cc() {
+        return 13;
+    }
 }

@@ -1,4 +1,4 @@
-public class A {
+public class A extends null {
 
     private long b = 1234;
 
@@ -14,5 +14,17 @@ public class A {
 
     public java.util.Set<Integer> ll() {
         return new java.util.LinkedList<Integer>;
+    }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
+
+    public void aa() {
+        System.out.println("Hello world!");
+    }
+
+    public double ad() {
+        return 11;
     }
 }

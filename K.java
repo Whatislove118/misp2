@@ -1,4 +1,4 @@
-public class K {
+public class K extends null {
 
     private int k = 1;
 
@@ -14,5 +14,17 @@ public class K {
 
     public void bb() {
         System.out.println(getClass().getName());
+    }
+
+    public int cc() {
+        return 39;
+    }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
+
+    public long ac() {
+        return 111;
     }
 }
