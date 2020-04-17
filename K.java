@@ -1,4 +1,4 @@
-public class K {
+public class K extends null {
 
     private int k = 1;
 
@@ -26,5 +26,29 @@ public class K {
 
     public long ac() {
         return 111;
+    }
+
+    public double ee() {
+        return java.lang.Math.PI;
+    }
+
+    public long dd() {
+        return 100500;
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public void ab() {
+        System.out.println("\n");
+    }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
     }
 }

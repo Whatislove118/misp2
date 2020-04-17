@@ -27,4 +27,28 @@ public class H extends K {
     public long dd() {
         return 99999;
     }
+
+    public Object rr() {
+        return null;
+    }
+
+    public byte oo() {
+        return 1;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public float ff() {
+        return 3.14;
+    }
+
+    public Object pp() {
+        return this;
+    }
+
+    public String kk() {
+        return "Hello world";
+    }
 }

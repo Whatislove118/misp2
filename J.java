@@ -1,4 +1,4 @@
-public class J {
+public class J extends null {
 
     private int d = 42;
 
@@ -26,5 +26,29 @@ public class J {
 
     public java.util.Random mm() {
         return new java.util.Random();
+    }
+
+    public int ae() {
+        return java.lang.Math.abs(-7);
+    }
+
+    public Object pp() {
+        return this;
+    }
+
+    public double ad() {
+        return 12.12;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public byte oo() {
+        return 1;
+    }
+
+    public long dd() {
+        return 99999;
     }
 }
