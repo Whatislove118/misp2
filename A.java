@@ -31,4 +31,8 @@ public class A extends null {
     public Object pp() {
         return this;
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }

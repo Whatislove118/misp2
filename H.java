@@ -31,4 +31,8 @@ public class H extends K {
     public double ee() {
         return java.lang.Math.PI;
     }
+
+    public Object pp() {
+        return this;
+    }
 }

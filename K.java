@@ -31,4 +31,8 @@ public class K extends null {
     public Object rr() {
         return null;
     }
+
+    public byte oo() {
+        return 1;
+    }
 }
