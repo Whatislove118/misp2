@@ -19,4 +19,8 @@ public class K {
     public int cc() {
         return 39;
     }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
 }
