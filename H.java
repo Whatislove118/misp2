@@ -11,4 +11,8 @@ public class H extends K {
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
     }
+
+    public int af() {
+        return -1;
+    }
 }
