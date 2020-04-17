@@ -11,16 +11,4 @@ public class J {
     public void ab() {
         return;
     }
-
-    public Object gg() {
-        return new java.util.Random();
-    }
-
-    public int af() {
-        return -1;
-    }
-
-    public void bb() {
-        System.out.println(42);
-    }
 }

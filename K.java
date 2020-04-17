@@ -11,16 +11,4 @@ public class K {
     public double ad() {
         return 9.11;
     }
-
-    public void bb() {
-        System.out.println(getClass().getName());
-    }
-
-    public int cc() {
-        return 39;
-    }
-
-    public void aa() {
-        System.out.println("void aa");
-    }
 }
